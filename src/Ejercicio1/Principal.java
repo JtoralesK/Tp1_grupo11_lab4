@@ -1,5 +1,5 @@
 package Ejercicio1;
 
-public class principal {
+public class Principal {
 	
 }
